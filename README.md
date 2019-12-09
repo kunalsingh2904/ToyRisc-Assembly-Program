@@ -2,7 +2,7 @@
 ## Another type of assembly program ToyRisc for computer Architecture
 
 ## How to run:
-"java -jar <path-to-emulator.jar> <path-to-assembly-file> <starting-address> <ending-address>" 
+### "java -jar <path-to-emulator.jar path-to-assembly-file starting-address ending-address" 
 This command functionally emulates the program you have written and at the end prints the
 contents of the register file, as well as the contents of those addresses of
 the memory specified by starting-address and ending address.Use this to test and debug your program.
